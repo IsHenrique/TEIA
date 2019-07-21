@@ -18,4 +18,7 @@ Pensando nesse problema a ideia do trabalho surgiu, onde qualquer usuário poder
 [Referências](https://github.com/IsHenrique/TEIA/blob/master/referencias.md)
 
 **Dados:**  
-[Dados utilizado no trabalho](https://github.com/IsHenrique/TEIA/blob/master/dados.md)
+[Dados utilizados](https://github.com/IsHenrique/TEIA/blob/master/dados.md)
+
+**Tecnologias:**  
+[Tecnologias utilizadas](https://github.com/IsHenrique/TEIA/blob/master/tecnologia.md)
